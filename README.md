@@ -5,7 +5,7 @@ Commotion-iOS is an open-source utility app for jailbroken iOS devices that use 
 
 ========
 
-![Preview](https://github.com/bmgdev/commotion-ios/blob/master/commotion-ios/commotion-ios/images/screenshots/1.PNG)
+![Preview](https://github.com/bmgdev/commotion-ios/blob/master/commotion-ios/images/screenshots/1.PNG)
 
 ###Credits
 
